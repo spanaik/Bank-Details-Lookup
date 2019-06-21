@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Bank-Detail-Lookup/static/css/main.2fe7ecfb.chunk.css",
-    "main.js": "/Bank-Detail-Lookup/static/js/main.c482223a.chunk.js",
-    "main.js.map": "/Bank-Detail-Lookup/static/js/main.c482223a.chunk.js.map",
-    "runtime~main.js": "/Bank-Detail-Lookup/static/js/runtime~main.7b325b12.js",
-    "runtime~main.js.map": "/Bank-Detail-Lookup/static/js/runtime~main.7b325b12.js.map",
-    "static/js/2.42ed585e.chunk.js": "/Bank-Detail-Lookup/static/js/2.42ed585e.chunk.js",
-    "static/js/2.42ed585e.chunk.js.map": "/Bank-Detail-Lookup/static/js/2.42ed585e.chunk.js.map",
-    "index.html": "/Bank-Detail-Lookup/index.html",
-    "precache-manifest.8ab1591da3a43a9a28cdcd61a6ea7393.js": "/Bank-Detail-Lookup/precache-manifest.8ab1591da3a43a9a28cdcd61a6ea7393.js",
-    "service-worker.js": "/Bank-Detail-Lookup/service-worker.js",
-    "static/css/main.2fe7ecfb.chunk.css.map": "/Bank-Detail-Lookup/static/css/main.2fe7ecfb.chunk.css.map"
+    "main.css": "/Bank-Details-Lookup/static/css/main.2fe7ecfb.chunk.css",
+    "main.js": "/Bank-Details-Lookup/static/js/main.e6c68c08.chunk.js",
+    "main.js.map": "/Bank-Details-Lookup/static/js/main.e6c68c08.chunk.js.map",
+    "runtime~main.js": "/Bank-Details-Lookup/static/js/runtime~main.5e70ad29.js",
+    "runtime~main.js.map": "/Bank-Details-Lookup/static/js/runtime~main.5e70ad29.js.map",
+    "static/js/2.42ed585e.chunk.js": "/Bank-Details-Lookup/static/js/2.42ed585e.chunk.js",
+    "static/js/2.42ed585e.chunk.js.map": "/Bank-Details-Lookup/static/js/2.42ed585e.chunk.js.map",
+    "index.html": "/Bank-Details-Lookup/index.html",
+    "precache-manifest.ee4af600c9e6592933d7739e07b79773.js": "/Bank-Details-Lookup/precache-manifest.ee4af600c9e6592933d7739e07b79773.js",
+    "service-worker.js": "/Bank-Details-Lookup/service-worker.js",
+    "static/css/main.2fe7ecfb.chunk.css.map": "/Bank-Details-Lookup/static/css/main.2fe7ecfb.chunk.css.map"
   }
 }
