@@ -1,0 +1,11 @@
+export const FILTER_DATA = "FILTER_DATA"
+export const FILTERED_DATA = "FILTERED_DATA"
+export const DATA_REQUESTED = "DATA_REQUESTED"
+export const DATA_LOADED = "DATA_LOADED"
+export const DATA_ERROR = "DATA_ERROR"
+export const PAGINATE_DATA = "PAGINATE_DATA"
+export const PAGINATED_DATA = "PAGINATED_DATA"
+export const LOAD_FAV_DATA = "LOAD_FAV_DATA"
+export const FAV_DATA = "FAV_DATA"
+export const CLEAR_DATA = "CLEAR_DATA"
+

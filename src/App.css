@@ -1,33 +1,76 @@
-.App {
-  text-align: center;
+body {
+    background-color: rgb(42,42,46);
+    color: rgb(234,234,246)
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+main {
+    width: 90%;
+    margin: 5% auto;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.fa-heart {
+    color: transparent;
+    -webkit-text-stroke: 2px rgb(234,234,246);
+    font-size: 1em;
+    padding: 5px;
 }
 
-.App-link {
-  color: #61dafb;
+.fa-heart:hover {
+    text-shadow: 1px 1px 1px red, 3px 3px 5px red;
+    -webkit-text-stroke: 0;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.checked {
+    color: rgba(255,0,0,0.8);
+    -webkit-text-stroke: 0;
+}
+
+.data-container {
+    padding: 5px;
+    margin: 10px;
+}
+
+.info {
+    line-height: 2rem;
+    text-align: center;
+}
+
+.header-row {
+    padding: 5px;
+    color: rgb(234,234,246);
+    background-color: rgb(56,56,61);
+    font-size: 1.2em;
+    font-weight: bold;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.data-row {
+    padding: 5px;
+    color: rgb(234,234,246);
+    background-color: rgb(56,56,61);
+    text-align: center;
+}
+
+.data-row:hover {
+    transform: scale(1.05);
+    border-radius: 5px;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;  /* Firefox 3.5 - 3.6 */
+    box-shadow:         3px 3px 5px 6px #ccc; 
+}
+
+.data-row:hover ~ div {
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+}
+
+.total {
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.1em;
 }
