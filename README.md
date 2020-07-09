@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses Bootstrap for stlying
 
-App Can be viewed here [Bank Details Lookup](https://spanaik.github.io/bank-details-lookup)
+App Can be viewed here [Bank Details Lookup](https://spanaik.github.io/Bank-Details-Lookup/)
 
 Bank Details Lookup App
 ===================
